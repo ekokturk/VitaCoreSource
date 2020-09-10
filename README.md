@@ -7,7 +7,7 @@ The main objective of the game is to attack VitaCore crystal at the center of th
 
 ### Trailer
 
-[![Trailer](/Screenshots/1.PNG)](https://www.youtube.com/watch?v=fli27BdLfpQ&ab_channel=VFSGameDesign)
+[![Trailer](/Screenshots/1.jpg)](https://www.youtube.com/watch?v=fli27BdLfpQ&ab_channel=VFSGameDesign)
 
 ---
 
